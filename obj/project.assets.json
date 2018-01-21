@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\EPAM\\DevOps\\vs\\projects\\BookList\\BookList.csproj",
+      "projectUniqueName": "D:\\EPAM\\DevOps\\vs\\projects\\booklist\\BookList.csproj",
       "projectName": "BookList",
-      "projectPath": "D:\\EPAM\\DevOps\\vs\\projects\\BookList\\BookList.csproj",
+      "projectPath": "D:\\EPAM\\DevOps\\vs\\projects\\booklist\\BookList.csproj",
       "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-      "outputPath": "D:\\EPAM\\DevOps\\vs\\projects\\BookList\\obj\\",
+      "outputPath": "D:\\EPAM\\DevOps\\vs\\projects\\booklist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
