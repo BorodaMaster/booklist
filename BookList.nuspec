@@ -10,6 +10,6 @@
     <projectUrl>http://yourcompany.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>ASP.NET Core 2</description>
-    <releaseNotes>This release don't contains any changes</releaseNotes>
+    <releaseNotes>This release don't contains any changess</releaseNotes>
   </metadata>
 </package>
