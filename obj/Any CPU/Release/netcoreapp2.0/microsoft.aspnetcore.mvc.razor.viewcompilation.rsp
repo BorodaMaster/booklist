@@ -1,0 +1,17 @@
+C:\Temp\repos\booklist
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=BookList
+--content-root=C:\Temp\repos\booklist
+--file=C:\Temp\repos\booklist\Views\Books\Create.cshtml
+--file=C:\Temp\repos\booklist\Views\Books\Delete.cshtml
+--file=C:\Temp\repos\booklist\Views\Books\Details.cshtml
+--file=C:\Temp\repos\booklist\Views\Books\Edit.cshtml
+--file=C:\Temp\repos\booklist\Views\Books\Index.cshtml
+--file=C:\Temp\repos\booklist\Views\Home\About.cshtml
+--file=C:\Temp\repos\booklist\Views\Home\Contact.cshtml
+--file=C:\Temp\repos\booklist\Views\Home\Index.cshtml
+--file=C:\Temp\repos\booklist\Views\Shared\Error.cshtml
+--file=C:\Temp\repos\booklist\Views\Shared\_Layout.cshtml
+--file=C:\Temp\repos\booklist\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Temp\repos\booklist\Views\_ViewImports.cshtml
+--file=C:\Temp\repos\booklist\Views\_ViewStart.cshtml
